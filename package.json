@@ -1,0 +1,32 @@
+{
+  "name": "htmvue",
+  "version": "0.0.1",
+  "description": "Collection of vue directives implementing the HTMX specification. Hypermedia and reactivity strong together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sombriks/htmvue.git"
+  },
+  "keywords": [
+    "vue",
+    "htmx",
+    "vue-directives",
+    "hypermedia",
+    "same-thing"
+  ],
+  "author": "sombriks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sombriks/htmvue/issues"
+  },
+  "homepage": "https://github.com/sombriks/htmvue#readme",
+  "devDependencies": {
+    "ava": "^6.1.3",
+    "htmx.org": "^1.9.12",
+    "supertest": "^7.0.0",
+    "vue": "^3.4.27"
+  }
+}
